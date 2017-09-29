@@ -6,6 +6,8 @@
   <li> Un archivo XML </li>
   <li> Un archivo HTML </li>
 </ol>
+
+
 # Procedimiento
 
 * Para ello e ido introducido en cada archivo el codigo que pueda reconocer dicho lenguaje y lo e guardado en la extensión de dicho lenguaje.
