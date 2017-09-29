@@ -1,6 +1,5 @@
 # ejercicio1
-
-E creado cuatro archivos en diferentes lenguajes de marcas en el block de notas:
+Crear cuatro archivos en diferentes lenguajes de marcas en el block de notas:
 1. Un archivo PS
 2. Un archivo RTF
 3. Un archivo XML
