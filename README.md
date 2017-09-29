@@ -1,9 +1,11 @@
-# ejercicio1
-Crear cuatro archivos en diferentes lenguajes de marcas en el block de notas:
-1. Un archivo PS
-2. Un archivo RTF
-3. Un archivo XML
-4. Un archivo HTML
+## ejercicio1
+## Crear cuatro archivos en diferentes lenguajes de marcas en el block de notas:
+<ol>
+  <li> Un archivo PS </li>
+  <li> Un archivo RTF </li>
+  <li> Un archivo XML </li>
+  <li> Un archivo HTML </li>
+</ol>
 
 Para ello e ido introducido en cada archivo el codigo que pueda reconocer dicho lenguaje y lo e guardado en la extensión de dicho lenguaje.
 
