@@ -21,3 +21,5 @@
  
 * Para ver tanto el archivo **XML** y **HTML** los e podido ver desde el *navegador.*
 
+>Para aprender la sintaxis de Markdown e visitado la web
+
