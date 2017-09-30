@@ -13,7 +13,7 @@
 * Para ello he introducido en cada archivo el codigo que pueda reconocer dicho lenguaje y lo e guardado en la extensión de dicho lenguaje.
  
  
-* Para previsualizar el archivo  **PS**  lo e cambiado a formato  **PDF**.
+* Para ver el archivo  **PS**  lo e cambiado a formato  **PDF**.
  
  
 * Para ver el archivo <strong>RTF</strong> lo e convertido a <strong>PFD</strong>.
@@ -21,7 +21,7 @@
  
 * Para ver tanto el archivo **XML** y **HTML** los e podido ver desde el *navegador.*
 
-* Para ver en el navegador el archivo html he usado [rawgit](https://rawgit.com/) en esta web e insertado el archivo html y como resultado me a dado la direccion valida para mostrar el archivo html en un navegador. file:///home/david/Escritorio/OneDrive/Ejercicio%201%20lenguaje%20de%20marcas/ejemplo.html
+* Para ver en el navegador el archivo html he usado [rawgit](https://rawgit.com/) en esta web e insertado el archivo html y como resultado me a dado la dirección valida para mostrar el archivo html en un navegador. file:///home/david/Escritorio/OneDrive/Ejercicio%201%20lenguaje%20de%20marcas/ejemplo.html
 
 > Para aprender la sintaxis de Markdown e visitado [markdown.es](https://markdown.es/)
 
