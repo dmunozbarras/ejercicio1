@@ -1,5 +1,5 @@
-__Markdown Ejercicio 1__
-## Crear cuatro archivos en diferentes lenguajes de marcas en el block de notas:
+# Markdown Ejercicio 1
+### Crear cuatro archivos en diferentes lenguajes de marcas en el block de notas:
 <ol>
   <li> Un archivo PS </li>
   <li> Un archivo RTF </li>
@@ -8,7 +8,7 @@ __Markdown Ejercicio 1__
 </ol>
 
 
-## Procedimiento
+### Procedimiento
 
 * Para ello he introducido en cada archivo el codigo que pueda reconocer dicho lenguaje y lo e guardado en la extensión de dicho lenguaje.
  
