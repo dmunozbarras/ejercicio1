@@ -19,5 +19,5 @@
 * Para ver el archivo <strong>RTF</strong> lo e convertido a <strong>PFD</strong>.
  
  
-* Para ver tanto el archivo **XML y <strong>HTML</strong> los e podido ver desde el navegador.
+* Para ver tanto el archivo **XML** y **HTML** los e podido ver desde el *navegador.*
 
