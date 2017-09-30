@@ -8,7 +8,7 @@
 </ol>
 
 
-### Procedimiento
+### Pasos:
 
 * Para ello he introducido en cada archivo el codigo que pueda reconocer dicho lenguaje y lo e guardado en la extensión de dicho lenguaje.
  
