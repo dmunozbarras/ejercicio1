@@ -21,7 +21,7 @@
  
 * Para ver tanto el archivo **XML** y **HTML** los e podido ver desde el *navegador.*
 
-* Para ver en el navegador el archivo html e usado [rawgit] (https://rawgit.com/) en esta web e insertado el archivo html y como resultado me a dado la direccion validad para navegadores. file:///home/david/Escritorio/OneDrive/Ejercicio%201%20lenguaje%20de%20marcas/ejemplo.html
+* Para ver en el navegador el archivo html e usado [rawgit] (https://rawgit.com/) en esta web e insertado el archivo html y como resultado me a dado la direccion valida para mostrar el archivo html en un navegador. file:///home/david/Escritorio/OneDrive/Ejercicio%201%20lenguaje%20de%20marcas/ejemplo.html
 
 > Para aprender la sintaxis de Markdown e visitado [markdown.es](https://markdown.es/)
 
