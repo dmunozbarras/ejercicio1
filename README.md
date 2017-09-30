@@ -13,7 +13,7 @@
 * Para ello he introducido en cada archivo el codigo que pueda reconocer dicho lenguaje y lo e guardado en la extensión de dicho lenguaje.
  
  
-* Para previsualizar el archivo PS lo e cambiado a formato PDF.
+* Para previsualizar el archivo <strong> PS </strong> lo e cambiado a formato PDF.
  
  
 * Para ver el archivo RTF lo e convertido a PFD.
