@@ -13,11 +13,11 @@
 * Para ello he introducido en cada archivo el codigo que pueda reconocer dicho lenguaje y lo e guardado en la extensión de dicho lenguaje.
  
  
-* Para previsualizar el archivo <strong> PS </strong> lo e cambiado a formato  <strong>PDF</strong>.
+* Para previsualizar el archivo  **PS**  lo e cambiado a formato  **PDF**.
  
  
 * Para ver el archivo <strong>RTF</strong> lo e convertido a <strong>PFD</strong>.
  
  
-* Para ver tanto el archivo <strong>XML</strong> y <strong>HTML</strong> los e podido ver desde el navegador.
+* Para ver tanto el archivo **XML y <strong>HTML</strong> los e podido ver desde el navegador.
 
