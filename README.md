@@ -10,7 +10,7 @@
 
 ### Pasos:
 
-* Para ello he introducido en cada archivo el codigo que pueda reconocer dicho lenguaje y lo e guardado en la extensión de dicho lenguaje.
+* Para ello he introducido en cada archivo el código que pueda reconocer dicho lenguaje y lo e guardado en la extensión de dicho lenguaje.
  
  
 * Para ver el archivo  **PS**  lo e cambiado a formato  **PDF**.
